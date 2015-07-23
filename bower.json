@@ -1,0 +1,32 @@
+{
+  "name": "ngGrid",
+  "version": "3.0.1",
+  "homepage": "https://github.com/jschmiede/ngGrid",
+  "authors": [
+    "Juan Pablo Schmiede <jschmiede@hotmail.com>"
+  ],
+  "description": "ng-grid nuget package depending on AngularJS.Core",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angularjs",
+    "angular",
+    "angular-ui",
+    "datagrid",
+    "ng-grid",
+    "nggrid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "angular-ui-grid": "~3.0.1"
+  }
+}
