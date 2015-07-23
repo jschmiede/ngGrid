@@ -19,13 +19,13 @@ https://github.com/angular-ui/ng-grid/tree/v3.0.1</releaseNotes>
         </dependencies>
     </metadata>
     <files>
-        <file src="content\Content\ui-grid.css" target="Content\ui-grid.css" />
-        <file src="content\Content\ui-grid.eot" target="Content\ui-grid.eot" />
-        <file src="content\Content\ui-grid.min.css" target="Content\ui-grid.min.css" />
-        <file src="content\Content\ui-grid.svg" target="Content\ui-grid.svg" />
-        <file src="content\Content\ui-grid.ttf" target="Content\ui-grid.ttf" />
-        <file src="content\Content\ui-grid.woff" target="Content\ui-grid.woff" />
-        <file src="content\Scripts\ui-grid.js" target="Scripts\ui-grid.js" />
-        <file src="content\Scripts\ui-grid.min.js" target="Scripts\ui-grid.min.js" />
+        <file src="content\Content\ui-grid.css" target="Content\Content\ui-grid.css" />
+        <file src="content\Content\ui-grid.eot" target="Content\Content\ui-grid.eot" />
+        <file src="content\Content\ui-grid.min.css" target="Content\Content\ui-grid.min.css" />
+        <file src="content\Content\ui-grid.svg" target="Content\Content\ui-grid.svg" />
+        <file src="content\Content\ui-grid.ttf" target="Content\Content\ui-grid.ttf" />
+        <file src="content\Content\ui-grid.woff" target="Content\Content\ui-grid.woff" />
+        <file src="content\Scripts\ui-grid.js" target="Content\Scripts\ui-grid.js" />
+        <file src="content\Scripts\ui-grid.min.js" target="Content\Scripts\ui-grid.min.js" />
     </files>
 </package>
